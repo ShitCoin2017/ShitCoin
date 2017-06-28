@@ -16,12 +16,7 @@ ShitCoin is built on the foundation of Bitcoin, PPCoin, Novacoin, and BitcoinDar
 
 Short: ShitCoin
 
-Algorithm SHA256
-
-
-RPC Port: 45001
-P2P Port: 45010
-
+Algorithm SHA256D
 
 
 30 Seconds Per Block
